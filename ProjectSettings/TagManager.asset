@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Border
+  - BulletPlayer
+  - PickUp
+  - Good
+  - Bad
+  - Compass
+  - Detector
+  - CutsceneMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Button
+  - Image
+  - PickUp
+  - BackgroundLvl1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 214079291
+    locked: 0
+  - name: Tile
+    uniqueID: 3032224801
+    locked: 0
+  - name: Table
+    uniqueID: 3813658637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: End
+    uniqueID: 2706547939
+    locked: 0
